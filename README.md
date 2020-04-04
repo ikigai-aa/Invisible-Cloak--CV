@@ -7,7 +7,7 @@ This is a Computer Vision Project which lets you make thing invisible by coverin
  
 pip install numpy
 
-pip install cv2
+pip install opencv-python
 
 pip install dlib
 
