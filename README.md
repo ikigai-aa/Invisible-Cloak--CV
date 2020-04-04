@@ -5,7 +5,7 @@ This is a Computer Vision Project which lets you make thing invisible by coverin
 
 # Dependencies
  
-pip install numpy 
-pip install cv2 
+pip install numpy \t
+pip install cv2 \t
 pip install dlib
 
